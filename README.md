@@ -1,76 +1,37 @@
-✈️ Skyline Analytics – Airline Business Insights (Power BI Dashboard)
-📌 Project Overview
+## ✈️ Skyline Analytics – Airline Business Insights (Power BI Dashboard)
+### 📌 Overview
 
-This project analyzes airline operations, pricing, and revenue trends using Power BI.
-The goal is to provide insights that help airlines identify profitable routes, optimize flight timings, and understand customer booking patterns.
+An interactive Power BI dashboard analyzing airline performance, revenue, and operations.
+The project highlights profitable routes, pricing trends, and customer booking behavior to support data-driven decisions.
 
-🎯 Objectives
+### 🎯 Key Objectives
 
-Compare airline performance based on flights, ticket pricing, and routes.
+Compare airlines by flights, ticket pricing, and routes.
 
-Identify most profitable routes and revenue distribution by city.
+Identify most profitable routes & cities.
 
-Analyze timing patterns (departure, arrival, duration, non-stop flights).
+Analyze timing trends (duration, stops, departure slots).
 
-Understand customer booking behavior by class (Business vs Economy).
+Study Business vs Economy class distribution.
 
-📊 Dashboard Pages
-1. Executive Summary
+### 🔑 Key Insights
 
-KPIs: Total Flights, Total Revenue, Avg Ticket Price, Avg Flight Duration
+Indigo has the highest number of flights, while Vistara leads in pricing.
 
-Charts: Airline share of flights, Top 5 profitable routes
+Mumbai → Delhi is the most profitable route.
 
-Quick insights at a glance
+Economy class makes up ~70% of bookings, but Business class contributes more revenue per ticket.
 
-2. Airline Overview
+Night flights show higher demand from business travelers.
 
-Flights by Airline
+### 🛠️ Tools
 
-Avg Ticket Price by Airline
+Power BI Desktop – Dashboarding
 
-Class Distribution across Airlines
+DAX – Custom measures (e.g., Most Profitable Route)
 
-Flights by Source City
+Airline Flights Dataset
 
-3. Operations & Timings
+### 📸 Dashboard Preview
 
-Avg Flight Duration
-
-% of Non-stop Flights
-
-Flights by Departure & Arrival Time Slots
-
-Stops by Airline
-
-4. Revenue & Pricing Analysis
-
-Total Revenue by City
-
-Revenue by Flight Class (Business vs Economy)
-
-Avg Ticket Price by Route
-
-Most Profitable Route KPI
-
-🛠️ Tools & Technologies
-
-Power BI Desktop – Data visualization & dashboarding
-
-DAX (Data Analysis Expressions) – Custom measures & KPIs
-
-Dataset – Airline flights (synthetic / public dataset)
-
-🔑 Key Insights
-
-Indigo operates the highest number of flights, while Vistara leads in average ticket pricing.
-
-Mumbai → Delhi emerged as the most profitable route.
-
-Majority of passengers prefer Economy class (~70%), but Business class contributes higher per-ticket revenue.
-
-Night flights show strong demand, especially for business travelers.
-
-Open the .pbix file in Power BI Desktop.
-
-Use slicers (Airline, Source City, Class) to explore insights.
+(Add screenshots here)
