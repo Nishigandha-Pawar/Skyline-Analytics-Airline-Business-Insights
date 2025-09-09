@@ -3,6 +3,7 @@
 
 An interactive Power BI dashboard analyzing airline performance, revenue, and operations.
 The project highlights profitable routes, pricing trends, and customer booking behavior to support data-driven decisions.
+
 ------------------------------------------------------------------------------------------
 ### 🎯 Key Objectives
 
@@ -13,6 +14,7 @@ Identify most profitable routes & cities.
 Analyze timing trends (duration, stops, departure slots).
 
 Study Business vs Economy class distribution.
+
 --------------------------------------------------------------------------------------------
 ### 🔑 Key Insights
 
@@ -23,6 +25,7 @@ Mumbai → Delhi is the most profitable route.
 Economy class makes up ~70% of bookings, but Business class contributes more revenue per ticket.
 
 Night flights show higher demand from business travelers.
+
 ----------------------------------------------------------------------------------------------
 ### 🛠️ Tools
 
@@ -30,10 +33,8 @@ Power BI Desktop – Dashboarding
 
 DAX – Custom measures (e.g., Most Profitable Route)
 
-Airline Flights Dataset
 -----------------------------------------------------------------------------------------------
 ### 📸 Dashboard Preview
-## 📸 Dashboard Preview
 
 ![Dashboard 1](screenshots/Screenshot%202025-09-10%20012340.png)
 ![Dashboard 2](screenshots/Screenshot%202025-09-10%20012354.png)
