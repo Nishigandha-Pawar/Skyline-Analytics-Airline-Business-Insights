@@ -37,7 +37,10 @@ DAX – Custom measures (e.g., Most Profitable Route)
 ### 📸 Dashboard Preview
 
 ## Screenshots
-- ![Screenshot 2025-09-10 130526](./screenshots/Screenshot%202025-09-10%20130526.png)
+  - ![Screenshot 2025-09-10 130526](./screenshots/Screenshot%202025-09-10%20130526.png)
+    
   - ![Screenshot 2025-09-10 130543](./screenshots/Screenshot%202025-09-10%20130543.png)
+    
   - ![Screenshot 2025-09-10 130629](./screenshots/Screenshot%202025-09-10%20130629.png)
+    
   - ![Screenshot 2025-09-10 130650](./screenshots/Screenshot%202025-09-10%20130650.png)
